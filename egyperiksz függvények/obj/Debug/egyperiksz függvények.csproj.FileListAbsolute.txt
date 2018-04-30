@@ -1,0 +1,11 @@
+F:\Users\Alex\Documents\C# Progik\egyperiksz függvények\egyperiksz függvények\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\egyperiksz függvények\egyperiksz függvények\bin\Debug\egyperiksz függvények.exe
+F:\Users\Alex\Documents\C# Progik\egyperiksz függvények\egyperiksz függvények\bin\Debug\egyperiksz függvények.pdb
+F:\Users\Alex\Documents\C# Progik\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.exe
+F:\Users\Alex\Documents\C# Progik\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.pdb
+D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\bin\Debug\egyperiksz függvények.exe
+D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\bin\Debug\egyperiksz függvények.pdb
+D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.exe
+D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.pdb
