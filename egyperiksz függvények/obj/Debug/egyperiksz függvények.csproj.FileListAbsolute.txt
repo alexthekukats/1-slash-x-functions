@@ -9,3 +9,9 @@ D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\obj\Debug\
 D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.csproj.CoreCompileInputs.cache
 D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.exe
 D:\Alex\Dokkok\GitHub\egyperiksz függvények\egyperiksz függvények\obj\Debug\egyperiksz függvények.pdb
+D:\Alex\Dokkok\GitHub\egyperiksz-fuggvenyek\egyperiksz függvények\bin\Debug\egyperiksz függvények.exe
+D:\Alex\Dokkok\GitHub\egyperiksz-fuggvenyek\egyperiksz függvények\bin\Debug\egyperiksz függvények.pdb
+D:\Alex\Dokkok\GitHub\egyperiksz-fuggvenyek\egyperiksz függvények\obj\Debug\egyperiksz függvények.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\egyperiksz-fuggvenyek\egyperiksz függvények\obj\Debug\egyperiksz függvények.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\egyperiksz-fuggvenyek\egyperiksz függvények\obj\Debug\egyperiksz függvények.exe
+D:\Alex\Dokkok\GitHub\egyperiksz-fuggvenyek\egyperiksz függvények\obj\Debug\egyperiksz függvények.pdb

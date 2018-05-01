@@ -42,7 +42,7 @@ namespace ConsoleApplication1
                 Console.WriteLine();
                 Console.WriteLine("(f(1/x^2) * 6)ˇ2 = " + x25);
 
-                Thread.Sleep(4);
+                Thread.Sleep(10);
                 Console.Clear();
             }
         }
